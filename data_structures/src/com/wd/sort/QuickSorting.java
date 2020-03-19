@@ -14,6 +14,6 @@ public class QuickSorting {
     }
 
     private static void quickSort(int[] arr) {
-
+        
     }
 }
